@@ -1,0 +1,2 @@
+# PraktikumDaspro
+Repoitory pertama saya.
