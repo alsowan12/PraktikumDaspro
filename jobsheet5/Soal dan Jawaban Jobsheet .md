@@ -107,7 +107,7 @@ Start
         Tampilkan "Izin masuk ditolak"
 End 
 
-<img src="foto.jpg" alt="Foto Profil" width="300" height="200">
+<img src="![Flowchart](image.png)" alt="Flowchart" width="300" height="200">
 
 Soal 2
 Di kampus tersedia layanan WiFi gratis yang hanya bisa diakses oleh civitas
