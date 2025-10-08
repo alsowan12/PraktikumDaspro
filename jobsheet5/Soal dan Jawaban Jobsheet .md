@@ -107,7 +107,6 @@ Start
         Tampilkan "Izin masuk ditolak"
 End 
 
-<img src="![alt text](image-1.png)" alt="Flowchart" width="300" height="200">
 
 Soal 2
 Di kampus tersedia layanan WiFi gratis yang hanya bisa diakses oleh civitas
