@@ -13,6 +13,7 @@ public class ifElseCetakKRS04 {
         System.out.print("Apakah UKT sudah lunas? (true/false): ");
         boolean uktLunas = sc.nextBoolean();
 
+        // === Struktur IF-ELSE utama ===
         if (semester == 1) {
             System.out.println("=== KRS Semester 1 ===");
             if (uktLunas) {
@@ -34,6 +35,21 @@ public class ifElseCetakKRS04 {
         } else {
             System.out.println("KRS Semester 7 atau lebih ditampilkan");
         }
+
+        // === Tambahan baris baru: menggunakan Ternary Operator ===
+        String statusUKT = uktLunas 
+            ? "UKT Lunas - Anda dapat mencetak KRS."
+            : "UKT Belum Lunas - Registrasi ditolak.";
+        System.out.println("Status UKT (versi ternary): " + statusUKT);
+
+        // Tambahan baris baru: cetak semester menggunakan ternary
+        String infoSemester = (semester == 1) ? "Semester 1" :
+                              (semester == 2) ? "Semester 2" :
+                              (semester == 3) ? "Semester 3" :
+                              (semester == 4) ? "Semester 4" :
+                              (semester == 5) ? "Semester 5" :
+                              (semester == 6) ? "Semester 6" : "Semester 7 atau lebih";
+        System.out.println("Informasi KRS (versi ternary): " + infoSemester);
 
         System.out.println("Terima Kasih");
         sc.close();
