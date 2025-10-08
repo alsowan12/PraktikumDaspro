@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Arga Chandra Wirawan
-💻 Mahasiswa Informatika | NIM: 254107020023 | Kelas: 1C
+💻 Mahasiswa Teknik Informatika | NIM: 254107020023 | Kelas: 1C
 
 ### Tentang Saya
 Saya seorang mahasiswa yang tertarik di dunia pemrograman dan teknologi.  
