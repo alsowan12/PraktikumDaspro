@@ -17,7 +17,8 @@ Saya suka membuat proyek yang bermanfaat serta terus belajar hal baru tentang **
 ## 🧰 Teknologi & Tools yang Saya Gunakan
 | Bahasa Pemrograman | Framework / Library | Tools & Platform |
 |--------------------|---------------------|------------------|
-| Java, Python, C++  | React, Tailwind, Node.js | GitHub, VS Code, NetBeans, IntelliJ |
+| Java, Python, HTML | React, Tailwind, Node.js | GitHub, VS Code, NetBeans, IntelliJ |
+| CSS, JavaScript    |                          |                                     |
 
 ---
 
