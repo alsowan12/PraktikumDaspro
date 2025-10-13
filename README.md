@@ -35,16 +35,10 @@ Saya suka membuat proyek yang bermanfaat serta terus belajar hal baru tentang **
 
 ---
 
-## 🧠 Statistik GitHub Saya
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgaWirawan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArgaWirawan&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Hubungi Saya
-- 💼 LinkedIn: [linkedin.com/in/argawirawan](https://linkedin.com/in/argawirawan)  
-- 📧 Email: **argawirawan@example.com**  
-- 🌍 Website / Portofolio: [argawirawan.github.io](https://argawirawan.github.io)
+- 💼 LinkedIn:  
+- 📧 Email: **argawawan355@gmail.com**  
+- 🌍 Website / Portofolio: 
 
 ---
 
