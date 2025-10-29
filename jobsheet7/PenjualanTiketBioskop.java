@@ -25,9 +25,9 @@ public class PenjualanTiketBioskop {
             double totalHarga = jumlahTiket * hargaTiket;
             double diskon = 0;
 
-            if (jumlahTiket > 10) {
+            if (jumlahTiket >= 10) {
                 diskon = 0.15;
-            } else if (jumlahTiket > 4) {
+            } else if (jumlahTiket >= 4) {
                 diskon = 0.10;
             }
 
