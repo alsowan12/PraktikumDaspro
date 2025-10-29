@@ -36,7 +36,7 @@ Saya suka membuat proyek yang bermanfaat serta terus belajar hal baru tentang **
 ---
 
 ## 📫 Hubungi Saya
-- 💼 LinkedIn:  
+- 💼 LinkedIn: **https://www.linkedin.com/feed/**
 - 📧 Email: **argawawan355@gmail.com**  
 - 🌍 Website / Portofolio: 
 
