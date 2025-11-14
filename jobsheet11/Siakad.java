@@ -25,5 +25,6 @@ public class Siakad {
             }
             System.out.println("Mata Kuliah " + (j+1) + ": " + (totalPermatkul / 4));
         }
+        sc.close();
     }
 }
