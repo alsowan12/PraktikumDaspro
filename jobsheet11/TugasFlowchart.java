@@ -24,7 +24,7 @@ public class TugasFlowchart {
             for (int h = 0; h < HARI; h++) {
                 System.out.print(suhu[k][h] + "\t");
             }
-            System.out.println();
+            System.out.println();   
         }
 
         sc.close();
