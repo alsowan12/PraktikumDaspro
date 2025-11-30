@@ -4,10 +4,10 @@ import java.util.Scanner;
 public class NilaiMahasiswa04 {
     
     public static void isianArray(double[] nilai) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         for (int i = 0; i < nilai.length; i++) {
             System.out.print("Masukkan nilai mahasiswa ke-" + (i + 1) + ": ");
-            nilai[i] = scanner.nextDouble();
+            nilai[i] = sc.nextDouble();
         }
     }
     

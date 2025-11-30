@@ -1,7 +1,7 @@
 package Pertemuan14.Tugas;
 import java.util.Scanner;
 
-public class RekapPenjualanCafeNoAbsen {
+public class RekapPenjualanCafe04 {
     
     public static void inputDataPenjualan(String[] menu, int[][] penjualan) {
         Scanner sc = new Scanner(System.in);
